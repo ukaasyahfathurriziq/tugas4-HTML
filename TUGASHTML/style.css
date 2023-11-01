@@ -125,6 +125,7 @@ a.tbl-pink:hover {
 p {
     margin: 10px 0px 10px 0px;
     padding: 10px 0px 10px 0px;
+    text-align: left;
 }
 
 .tengah {
@@ -244,6 +245,3 @@ h3 {
         width: 50%;
     }
 }
-    p {
-    text-align: left;
-    }
